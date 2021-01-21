@@ -40,17 +40,7 @@ contacts["Avion School"][:phone] = contact_data[1][2]
 
 puts contacts
 
-#4) 
-# def age_count (*age) 
-#     puts "How old are you?"
-#     for in 0...age.length
-#         puts "In #{age[i]} years you will be:"
-#         puts age[i] + 20
-#     end
-#  end
-
-#  age_count 10,20,30,40
-
+#4)
 print "How old are you?"
 age = gets.to_i 
 
