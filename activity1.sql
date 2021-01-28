@@ -1,6 +1,6 @@
 #1 Create new table:
 
-CREATE TABLE accounts(id integer, type VARCHAR(10), status integer); 
+CREATE TABLE accounts(id integer, firstName VARCHAR(10), middleName VARCHAR(10), lastName VARCHAR(10), age integer, location VARCHAR(10));
 
 #2 Insert 6 records in your students table.
 
